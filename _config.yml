@@ -1,3 +1,10 @@
-theme: jekyll-theme-cayman
-title: Weronika Klecel's Website
-description: Welcome to my website!
+remote_theme: mmistakes/minimal-mistakes@4.24.0
+plugins:
+  - jekyll-remote-theme # add this line to the plugins list if you have one
+
+title: "Weronika Klecel"
+description: "Researcher | Resume | Publications"
+url: "https://weronika-klecel.github.io"
+baseurl: "" # leave empty for user site
+
+# other configurations you might want to add
