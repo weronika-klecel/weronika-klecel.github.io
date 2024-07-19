@@ -3,7 +3,7 @@ plugins:
   - jekyll-remote-theme # add this line to the plugins list if you have one
 
 title: "Weronika Klecel"
-description: "Researcher | Resume | Publications"
+description: "About me | Resume | Publications"
 url: "https://weronika-klecel.github.io"
 baseurl: "" # leave empty for user site
 
